@@ -1,4 +1,4 @@
-window.OpenBCI = function() {
+export const OpenBCI = function() {
   this.buffer = [];
   this.channels = [[], [], [], []];
   this.SECONDS = 0.25;
