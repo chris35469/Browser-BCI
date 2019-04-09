@@ -1,4 +1,4 @@
-var OpenBCI = function() {
+window.OpenBCI = function() {
   this.buffer = [];
   this.channels = [[], [], [], []];
   this.SECONDS = 0.25;
