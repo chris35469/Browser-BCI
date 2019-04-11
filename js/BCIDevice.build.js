@@ -1,4 +1,4 @@
-var Bluetooth = /******/ (function(modules) {
+window.Blue = /******/ (function(modules) {
   // webpackBootstrap
   /******/ // The module cache
   /******/ var installedModules = {}; // The require function
